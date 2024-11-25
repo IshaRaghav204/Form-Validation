@@ -73,4 +73,4 @@ The website will be running at `http://localhost:5173`.
 ## License
 
 This project is licensed under the MIT License.
->>>>>>> 0640409abba7c6229dfe80e74a4e3fb545a27b22
+
