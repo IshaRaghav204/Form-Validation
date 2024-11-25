@@ -51,14 +51,15 @@ npm run dev
 The website will be running at `http://localhost:5173`.
 
 ## Bootstrap Installation
-1.  ```bash
+1. Install Bootstrap
+  ```bash
    npm install bootstrap@5.3.3
    ```
 2. Import Bootstrap in file
-```bash
-   import 'bootstrap/dist/css/bootstrap.min.css';
+   ```bash
+   import "bootstrap/dist/css/bootstrap.min.css
    ```
-
+   
 ## Technologies Used
 
 - **React** for building the user interface
