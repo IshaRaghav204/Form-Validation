@@ -57,7 +57,7 @@ The website will be running at `http://localhost:5173`.
    ```
 2. Import Bootstrap in file
    ```bash
-   import "bootstrap/dist/css/bootstrap.min.css
+   import "bootstrap/dist/css/bootstrap.min.css"
    ```
    
 ## Technologies Used
