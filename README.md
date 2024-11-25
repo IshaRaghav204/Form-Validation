@@ -29,8 +29,12 @@ This project is a simple form validation app built with React.js. It includes a 
    ```bash
    cd V:/small-projects/form-validation/Form
    ```
-
-3. Install the dependencies:
+   
+3. ```bash
+   npm create vite@latest
+   ```
+   
+4. Install the dependencies:
 
    ```bash
    npm install
@@ -45,6 +49,15 @@ npm run dev
 ```
 
 The website will be running at `http://localhost:5173`.
+
+## Bootstrap Installation
+1.  ```bash
+   npm install bootstrap@5.3.3
+   ```
+2. Import Bootstrap in file
+```bash
+   import 'bootstrap/dist/css/bootstrap.min.css';
+   ```
 
 ## Technologies Used
 
